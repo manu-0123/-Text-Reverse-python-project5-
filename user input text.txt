@@ -1,0 +1,8 @@
+# long description about ai
+Artificial intelligence (AI) is the development of computer systems that can perform tasks that typically require human intelligence, such as reasoning, learning, and problem-solving. Essentially, AI aims to create machines that can think and act like humans, or even surpass them in certain areas. 
+
+#single line and single word text
+welcome to programming !
+
+remainder: we can add any set of information to reverse any set of strings manipulation
+any set of input text given ll be saved automatically as reversed text as output file in this program
